@@ -1,13 +1,7 @@
 <h1>Iaee! Eu sou o Jean <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
 
-##
-
-<div align="center">
-  <a href="https://github.com/jeanferreirab">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeanferreirab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
+<img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
+  
   ##
  
 <h3> - 🔭 Hoje trabalho como auxiliar <br>
@@ -15,12 +9,15 @@
 - 🤓 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
 </h3>
 
+  
+  <div align="center">
+  <a href="https://github.com/jeanferreirab">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeanferreirab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
 ##
-  
-<img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
-  
-##
-  
+    
 <div style="display: inline_block"
 align=""><br>
   <img align="center" alt="Js" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
