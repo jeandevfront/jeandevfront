@@ -1,11 +1,15 @@
-##Iaee! Eu sou o Jean' 
+## Iaee! Eu sou o Jean
+
 ##
+
 <img src="https://radio.x-team.com/_next/static/media/mario.2484c967.gif">
 
-<p> - 🔭 Hoje trabalho como auxiliar <br>
+##
+
+<h4> - 🔭 Hoje trabalho como auxiliar <br>
 - 🌱 Estudando Html, CSS e Javascript <br>
 - 😄 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
-</p>
+</h4>
 
 ##
 
