@@ -6,16 +6,16 @@
 
 <div align="center">
   <a href="https://github.com/jeanferreirab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanferreirab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=jeanferreirab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"
-align="center"><br>
+align=""><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <ung align="right" alt="pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/1052327637097394176/1052327637097394179/1052327686497906708"
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1052327637097394179/1052327686124621875/giphy.gif">
   
 </div>
 
