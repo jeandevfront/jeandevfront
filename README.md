@@ -24,12 +24,12 @@ align=""><br>
 
 <div> 
   <a href="https://instagram.com/jean.ferreir" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ferreirajean123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:ferreirajean123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-ferreira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
  <br><br>
   
-  <img align="center" alt="foto maneira" width="100%" height="500px" src="https://i.pinimg.com/originals/77/c3/5a/77c35a38b160f1c811afcb6bfe7c891e.gif">
+  <img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/77/c3/5a/77c35a38b160f1c811afcb6bfe7c891e.gif">
   
 ##
