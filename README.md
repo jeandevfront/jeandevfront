@@ -1,7 +1,5 @@
 <h1>Iaee! Eu sou o Jean <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
 
-<img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
-  
   ##
  
 <h3> - 🔭 Hoje trabalho como auxiliar <br>
@@ -34,5 +32,11 @@ align=""><br>
   <a href="https://www.linkedin.com/in/jean-ferreira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
+  <p> <br>
+  </p>
+  
+  <img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
+  
+##
 ##
   
