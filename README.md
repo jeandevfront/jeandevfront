@@ -6,10 +6,10 @@
 
 ##
 
-<h4> - 🔭 Hoje trabalho como auxiliar <br>
+<h3> - 🔭 Hoje trabalho como auxiliar <br>
 - 🌱 Estudando Html, CSS e Javascript <br>
 - 🤓 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
-</h4>
+</h3>
 
 ##
 
