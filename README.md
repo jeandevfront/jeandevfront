@@ -15,10 +15,9 @@ align=""><br>
   <img align="center" alt="Js" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</div><br>
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1052327637097394179/1052327686124621875/giphy.gif?width=676&height=676">
+</div>
  
-![giphy](https://user-images.githubusercontent.com/120499171/207444864-6722c545-fbaa-4136-91aa-40e29dd2c113.gif)
-
 ##
 
 <div> 
@@ -26,3 +25,6 @@ align=""><br>
   <a href = "mailto:ferreirajean123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-ferreira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+##
+  
