@@ -2,18 +2,18 @@
 
 ##
 
-<h3> - 🔭 Hoje trabalho como auxiliar <br>
-- 🌱 Estudando Html, CSS e Javascript <br>
-- 🤓 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
-</h3>
-
-##
-
 <div align="center">
   <a href="https://github.com/jeanferreirab">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeanferreirab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+  ##
+ 
+<h3> - 🔭 Hoje trabalho como auxiliar <br>
+- 🌱 Estudando Html, CSS e Javascript <br>
+- 🤓 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
+</h3>
 
 ##
   
