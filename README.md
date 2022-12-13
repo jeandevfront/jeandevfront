@@ -30,8 +30,6 @@ align=""><br>
   
  <br><br>
   
-  <img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
+  <img align="center" alt="foto maneira" width="100%" height="500px" src="https://i.pinimg.com/originals/77/c3/5a/77c35a38b160f1c811afcb6bfe7c891e.gif">
   
 ##
-##
-  
