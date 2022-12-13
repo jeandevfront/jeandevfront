@@ -2,10 +2,6 @@
 
 ##
 
-<img align="center" alt="foto maneira" width="100%" height="600px" src="https://i.pinimg.com/originals/4c/8e/6b/4c8e6b94cd2c2538d3b068c1b6a68c68.gif">
-
-##
-
 <h3> - 🔭 Hoje trabalho como auxiliar <br>
 - 🌱 Estudando Html, CSS e Javascript <br>
 - 🤓 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
@@ -19,6 +15,12 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+##
+  
+<img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
+  
+##
+  
 <div style="display: inline_block"
 align=""><br>
   <img align="center" alt="Js" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
