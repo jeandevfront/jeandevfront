@@ -1,8 +1,11 @@
 ## Iaee! Eu sou o Jean' 
+##
 
 - 🔭 Hoje trabalho como auxiliar
 - 🌱 Estudando Html, CSS e Javascript
 - 😄 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end.
+
+##
 
 <div align="center">
   <a href="https://github.com/jeanferreirab">
