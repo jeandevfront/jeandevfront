@@ -1,6 +1,4 @@
 <h1>Iaee! Eu sou o Jean <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
-
-  ##
  
 <h3> - 🔭 Hoje trabalho como auxiliar <br>
 - 🌱 Estudando Html, CSS e Javascript <br>
@@ -13,8 +11,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeanferreirab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanferreirab&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-##
     
 <div style="display: inline_block"
 align=""><br>
@@ -32,8 +28,7 @@ align=""><br>
   <a href="https://www.linkedin.com/in/jean-ferreira-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-  <p> <br>
-  </p>
+ <br><br>
   
   <img align="center" alt="foto maneira" width="100%" height="100%" src="https://i.pinimg.com/originals/26/ed/fe/26edfe7476f61c0afa0ad92574065225.gif">
   
